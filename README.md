@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caymiferreira/)
 
 
-![Caymi Ferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=caymiferreira&show_icons=true&theme=dracula)
+![Caymi Ferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=caymiferreira&show_icons=true&theme=ocean_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caymiferreira&layout=compact&langs_count=16&theme=dracula)](https://github.com/caymiferreira/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caymiferreira&layout=compact&langs_count=16&theme=ocean_dark)](https://github.com/caymiferreira/github-readme-stats)
 
