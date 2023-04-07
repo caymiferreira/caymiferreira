@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Caymi 👋
 
- <img align="up" alt="caymi-emoji" src="208e0257767340ddbe70dc8bd631fba6.gif">
+ <img align="up" alt="caymi-emoji" src="oie_g7xdvhDisIKJ.gif">
 
 <div>
   <a href="https://github.com/rafaballerini">
