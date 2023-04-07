@@ -1,5 +1,7 @@
 ## Olá! Eu sou o Caymi 👋
 
+ <img align="right" alt="caymi-emoji" src="https://drive.google.com/file/d/15OKmITTkCdcWYiwJyB8DF9xIKAfe7qvv/view?ts=642fa90e">
+
 <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caymiferreira&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/> 
