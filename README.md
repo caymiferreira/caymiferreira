@@ -18,7 +18,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"
 </div>
 
-![Snake animation](https://github.com/rafaballerini2/caymiferreira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/caymiferreira/caymiferreira/blob/output/github-contribution-grid-snake.svg)
 
 ## Canais de comunicação:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caymiferreira/)
